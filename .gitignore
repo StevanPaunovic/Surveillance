@@ -1,3 +1,6 @@
-YOLO11/jpeg/*
-YOLO11/mp4/*
-YOLO11/result/*
+YOLO11_Detect/jpeg/*
+YOLO11_Detect/mp4/*
+YOLO11_Detect/result/*
+YOLO11_Track/jpeg/*
+YOLO11_Track/mp4/*
+YOLO11_Track/result/*
