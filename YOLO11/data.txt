@@ -1,0 +1,2569 @@
+ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: tensor([[0.9902, 0.9935, 0.9879, 0.9555, 0.7654, 0.8325, 0.9079, 0.0111, 0.0198, 0.0162, 0.0201, 0.0024, 0.0032, 0.0012, 0.0018, 0.0024, 0.0034]])
+data: tensor([[[9.5481e+02, 4.3081e+02, 9.9015e-01],
+         [1.0283e+03, 3.5611e+02, 9.9347e-01],
+         [8.8070e+02, 3.6504e+02, 9.8795e-01],
+         [1.1544e+03, 4.4239e+02, 9.5553e-01],
+         [7.8596e+02, 4.6189e+02, 7.6544e-01],
+         [1.4009e+03, 9.3088e+02, 8.3250e-01],
+         [5.7578e+02, 9.2755e+02, 9.0794e-01],
+         [0.0000e+00, 0.0000e+00, 1.1080e-02],
+         [0.0000e+00, 0.0000e+00, 1.9825e-02],
+         [0.0000e+00, 0.0000e+00, 1.6217e-02],
+         [0.0000e+00, 0.0000e+00, 2.0101e-02],
+         [0.0000e+00, 0.0000e+00, 2.3611e-03],
+         [0.0000e+00, 0.0000e+00, 3.1570e-03],
+         [0.0000e+00, 0.0000e+00, 1.2236e-03],
+         [0.0000e+00, 0.0000e+00, 1.8322e-03],
+         [0.0000e+00, 0.0000e+00, 2.3946e-03],
+         [0.0000e+00, 0.0000e+00, 3.3764e-03]]])
+has_visible: True
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 17, 3])
+xy: tensor([[[ 954.8124,  430.8069],
+         [1028.3168,  356.1055],
+         [ 880.7010,  365.0396],
+         [1154.3562,  442.3906],
+         [ 785.9615,  461.8857],
+         [1400.9219,  930.8787],
+         [ 575.7773,  927.5541],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000]]])
+xyn: tensor([[[0.4973, 0.3989],
+         [0.5356, 0.3297],
+         [0.4587, 0.3380],
+         [0.6012, 0.4096],
+         [0.4094, 0.4277],
+         [0.7296, 0.8619],
+         [0.2999, 0.8588],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000]]])ultralytics.engine.results.Keypoints object with attributes:
+
+conf: tensor([[0.9910, 0.9940, 0.9890, 0.9562, 0.7820, 0.8286, 0.9126, 0.0113, 0.0217, 0.0163, 0.0214, 0.0021, 0.0029, 0.0012, 0.0018, 0.0023, 0.0034]])
+data: tensor([[[9.5185e+02, 4.3239e+02, 9.9095e-01],
+         [1.0250e+03, 3.5727e+02, 9.9396e-01],
+         [8.7639e+02, 3.6677e+02, 9.8904e-01],
+         [1.1486e+03, 4.4348e+02, 9.5623e-01],
+         [7.8125e+02, 4.6494e+02, 7.8195e-01],
+         [1.3967e+03, 9.2636e+02, 8.2862e-01],
+         [5.6852e+02, 9.2052e+02, 9.1256e-01],
+         [0.0000e+00, 0.0000e+00, 1.1289e-02],
+         [0.0000e+00, 0.0000e+00, 2.1704e-02],
+         [0.0000e+00, 0.0000e+00, 1.6294e-02],
+         [0.0000e+00, 0.0000e+00, 2.1435e-02],
+         [0.0000e+00, 0.0000e+00, 2.1037e-03],
+         [0.0000e+00, 0.0000e+00, 2.9439e-03],
+         [0.0000e+00, 0.0000e+00, 1.1562e-03],
+         [0.0000e+00, 0.0000e+00, 1.7854e-03],
+         [0.0000e+00, 0.0000e+00, 2.3273e-03],
+         [0.0000e+00, 0.0000e+00, 3.3618e-03]]])
+has_visible: True
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 17, 3])
+xy: tensor([[[ 951.8506,  432.3940],
+         [1025.0085,  357.2696],
+         [ 876.3904,  366.7712],
+         [1148.6488,  443.4762],
+         [ 781.2530,  464.9388],
+         [1396.7095,  926.3599],
+         [ 568.5165,  920.5231],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000]]])
+xyn: tensor([[[0.4958, 0.4004],
+         [0.5339, 0.3308],
+         [0.4565, 0.3396],
+         [0.5983, 0.4106],
+         [0.4069, 0.4305],
+         [0.7275, 0.8577],
+         [0.2961, 0.8523],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000]]])ultralytics.engine.results.Keypoints object with attributes:
+
+conf: tensor([[0.9915, 0.9946, 0.9889, 0.9618, 0.7632, 0.8327, 0.9151, 0.0114, 0.0213, 0.0165, 0.0210, 0.0019, 0.0027, 0.0011, 0.0017, 0.0023, 0.0033]])
+data: tensor([[[9.4045e+02, 4.3476e+02, 9.9146e-01],
+         [1.0138e+03, 3.6026e+02, 9.9456e-01],
+         [8.6640e+02, 3.7042e+02, 9.8891e-01],
+         [1.1395e+03, 4.4974e+02, 9.6181e-01],
+         [7.7398e+02, 4.7236e+02, 7.6315e-01],
+         [1.4046e+03, 9.3182e+02, 8.3271e-01],
+         [5.5755e+02, 9.2988e+02, 9.1511e-01],
+         [0.0000e+00, 0.0000e+00, 1.1417e-02],
+         [0.0000e+00, 0.0000e+00, 2.1275e-02],
+         [0.0000e+00, 0.0000e+00, 1.6523e-02],
+         [0.0000e+00, 0.0000e+00, 2.1004e-02],
+         [0.0000e+00, 0.0000e+00, 1.8937e-03],
+         [0.0000e+00, 0.0000e+00, 2.6732e-03],
+         [0.0000e+00, 0.0000e+00, 1.0990e-03],
+         [0.0000e+00, 0.0000e+00, 1.6790e-03],
+         [0.0000e+00, 0.0000e+00, 2.2610e-03],
+         [0.0000e+00, 0.0000e+00, 3.2719e-03]]])
+has_visible: True
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 17, 3])
+xy: tensor([[[ 940.4502,  434.7604],
+         [1013.7669,  360.2593],
+         [ 866.3965,  370.4236],
+         [1139.5194,  449.7438],
+         [ 773.9808,  472.3620],
+         [1404.5842,  931.8172],
+         [ 557.5502,  929.8788],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000]]])
+xyn: tensor([[[0.4898, 0.4026],
+         [0.5280, 0.3336],
+         [0.4512, 0.3430],
+         [0.5935, 0.4164],
+         [0.4031, 0.4374],
+         [0.7316, 0.8628],
+         [0.2904, 0.8610],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000]]])ultralytics.engine.results.Keypoints object with attributes:
+
+conf: tensor([[0.9918, 0.9949, 0.9887, 0.9665, 0.7440, 0.8372, 0.9184, 0.0114, 0.0215, 0.0169, 0.0217, 0.0018, 0.0026, 0.0011, 0.0016, 0.0021, 0.0032]])
+data: tensor([[[9.2868e+02, 4.3460e+02, 9.9182e-01],
+         [9.9990e+02, 3.6169e+02, 9.9492e-01],
+         [8.5724e+02, 3.7193e+02, 9.8873e-01],
+         [1.1241e+03, 4.5098e+02, 9.6650e-01],
+         [7.6919e+02, 4.7373e+02, 7.4396e-01],
+         [1.3982e+03, 9.3580e+02, 8.3719e-01],
+         [5.5366e+02, 9.2944e+02, 9.1836e-01],
+         [0.0000e+00, 0.0000e+00, 1.1355e-02],
+         [0.0000e+00, 0.0000e+00, 2.1475e-02],
+         [0.0000e+00, 0.0000e+00, 1.6924e-02],
+         [0.0000e+00, 0.0000e+00, 2.1750e-02],
+         [0.0000e+00, 0.0000e+00, 1.7893e-03],
+         [0.0000e+00, 0.0000e+00, 2.5766e-03],
+         [0.0000e+00, 0.0000e+00, 1.0585e-03],
+         [0.0000e+00, 0.0000e+00, 1.6453e-03],
+         [0.0000e+00, 0.0000e+00, 2.1392e-03],
+         [0.0000e+00, 0.0000e+00, 3.1589e-03]]])
+has_visible: True
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 17, 3])
+xy: tensor([[[ 928.6835,  434.5993],
+         [ 999.8963,  361.6891],
+         [ 857.2401,  371.9339],
+         [1124.1465,  450.9806],
+         [ 769.1852,  473.7267],
+         [1398.1670,  935.7997],
+         [ 553.6567,  929.4413],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000]]])
+xyn: tensor([[[0.4837, 0.4024],
+         [0.5208, 0.3349],
+         [0.4465, 0.3444],
+         [0.5855, 0.4176],
+         [0.4006, 0.4386],
+         [0.7282, 0.8665],
+         [0.2884, 0.8606],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000]]])ultralytics.engine.results.Keypoints object with attributes:
+
+conf: tensor([[0.9886, 0.9922, 0.9835, 0.9623, 0.7186, 0.8934, 0.9157, 0.0188, 0.0259, 0.0253, 0.0259, 0.0042, 0.0051, 0.0021, 0.0031, 0.0026, 0.0038]])
+data: tensor([[[9.2767e+02, 4.3331e+02, 9.8857e-01],
+         [9.9612e+02, 3.6601e+02, 9.9217e-01],
+         [8.5750e+02, 3.7667e+02, 9.8352e-01],
+         [1.1161e+03, 4.5136e+02, 9.6225e-01],
+         [7.6695e+02, 4.7696e+02, 7.1855e-01],
+         [1.4091e+03, 9.1913e+02, 8.9337e-01],
+         [5.3230e+02, 9.1958e+02, 9.1572e-01],
+         [0.0000e+00, 0.0000e+00, 1.8794e-02],
+         [0.0000e+00, 0.0000e+00, 2.5857e-02],
+         [0.0000e+00, 0.0000e+00, 2.5301e-02],
+         [0.0000e+00, 0.0000e+00, 2.5852e-02],
+         [0.0000e+00, 0.0000e+00, 4.2439e-03],
+         [0.0000e+00, 0.0000e+00, 5.0920e-03],
+         [0.0000e+00, 0.0000e+00, 2.0902e-03],
+         [0.0000e+00, 0.0000e+00, 3.1244e-03],
+         [0.0000e+00, 0.0000e+00, 2.6360e-03],
+         [0.0000e+00, 0.0000e+00, 3.7525e-03]]])
+has_visible: True
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 17, 3])
+xy: tensor([[[ 927.6650,  433.3127],
+         [ 996.1227,  366.0064],
+         [ 857.5018,  376.6701],
+         [1116.1100,  451.3600],
+         [ 766.9503,  476.9559],
+         [1409.0548,  919.1318],
+         [ 532.3027,  919.5835],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000]]])
+xyn: tensor([[[0.4832, 0.4012],
+         [0.5188, 0.3389],
+         [0.4466, 0.3488],
+         [0.5813, 0.4179],
+         [0.3995, 0.4416],
+         [0.7339, 0.8510],
+         [0.2772, 0.8515],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000]]])ultralytics.engine.results.Keypoints object with attributes:
+
+conf: tensor([[0.9883, 0.9920, 0.9831, 0.9634, 0.7182, 0.8960, 0.9167, 0.0183, 0.0251, 0.0246, 0.0248, 0.0043, 0.0051, 0.0021, 0.0031, 0.0026, 0.0038]])
+data: tensor([[[9.2148e+02, 4.3369e+02, 9.8830e-01],
+         [9.9077e+02, 3.6503e+02, 9.9205e-01],
+         [8.5107e+02, 3.7667e+02, 9.8308e-01],
+         [1.1129e+03, 4.4942e+02, 9.6340e-01],
+         [7.6142e+02, 4.7661e+02, 7.1820e-01],
+         [1.4087e+03, 9.2029e+02, 8.9604e-01],
+         [5.2827e+02, 9.2169e+02, 9.1669e-01],
+         [0.0000e+00, 0.0000e+00, 1.8301e-02],
+         [0.0000e+00, 0.0000e+00, 2.5057e-02],
+         [0.0000e+00, 0.0000e+00, 2.4597e-02],
+         [0.0000e+00, 0.0000e+00, 2.4799e-02],
+         [0.0000e+00, 0.0000e+00, 4.2581e-03],
+         [0.0000e+00, 0.0000e+00, 5.1125e-03],
+         [0.0000e+00, 0.0000e+00, 2.0964e-03],
+         [0.0000e+00, 0.0000e+00, 3.1401e-03],
+         [0.0000e+00, 0.0000e+00, 2.6422e-03],
+         [0.0000e+00, 0.0000e+00, 3.7641e-03]]])
+has_visible: True
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 17, 3])
+xy: tensor([[[ 921.4816,  433.6898],
+         [ 990.7724,  365.0251],
+         [ 851.0693,  376.6669],
+         [1112.8590,  449.4237],
+         [ 761.4201,  476.6098],
+         [1408.6591,  920.2908],
+         [ 528.2730,  921.6907],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000]]])
+xyn: tensor([[[0.4799, 0.4016],
+         [0.5160, 0.3380],
+         [0.4433, 0.3488],
+         [0.5796, 0.4161],
+         [0.3966, 0.4413],
+         [0.7337, 0.8521],
+         [0.2751, 0.8534],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000]]])ultralytics.engine.results.Keypoints object with attributes:
+
+conf: tensor([[0.9884, 0.9922, 0.9834, 0.9629, 0.7185, 0.8915, 0.9145, 0.0171, 0.0243, 0.0225, 0.0235, 0.0042, 0.0051, 0.0021, 0.0032, 0.0028, 0.0040]])
+data: tensor([[[9.1854e+02, 4.3495e+02, 9.8841e-01],
+         [9.8747e+02, 3.6635e+02, 9.9222e-01],
+         [8.4776e+02, 3.7832e+02, 9.8338e-01],
+         [1.1099e+03, 4.5030e+02, 9.6294e-01],
+         [7.5800e+02, 4.7834e+02, 7.1847e-01],
+         [1.4059e+03, 9.1834e+02, 8.9154e-01],
+         [5.3002e+02, 9.2231e+02, 9.1450e-01],
+         [0.0000e+00, 0.0000e+00, 1.7122e-02],
+         [0.0000e+00, 0.0000e+00, 2.4329e-02],
+         [0.0000e+00, 0.0000e+00, 2.2526e-02],
+         [0.0000e+00, 0.0000e+00, 2.3505e-02],
+         [0.0000e+00, 0.0000e+00, 4.2101e-03],
+         [0.0000e+00, 0.0000e+00, 5.1351e-03],
+         [0.0000e+00, 0.0000e+00, 2.1295e-03],
+         [0.0000e+00, 0.0000e+00, 3.2263e-03],
+         [0.0000e+00, 0.0000e+00, 2.7606e-03],
+         [0.0000e+00, 0.0000e+00, 3.9662e-03]]])
+has_visible: True
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 17, 3])
+xy: tensor([[[ 918.5413,  434.9528],
+         [ 987.4659,  366.3494],
+         [ 847.7578,  378.3203],
+         [1109.8591,  450.2958],
+         [ 757.9999,  478.3387],
+         [1405.9149,  918.3413],
+         [ 530.0175,  922.3054],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000]]])
+xyn: tensor([[[0.4784, 0.4027],
+         [0.5143, 0.3392],
+         [0.4415, 0.3503],
+         [0.5781, 0.4169],
+         [0.3948, 0.4429],
+         [0.7322, 0.8503],
+         [0.2761, 0.8540],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000]]])ultralytics.engine.results.Keypoints object with attributes:
+
+conf: tensor([[0.9885, 0.9923, 0.9836, 0.9627, 0.7227, 0.8929, 0.9143, 0.0173, 0.0241, 0.0224, 0.0230, 0.0042, 0.0051, 0.0021, 0.0032, 0.0027, 0.0039]])
+data: tensor([[[9.1863e+02, 4.3556e+02, 9.8854e-01],
+         [9.8735e+02, 3.6690e+02, 9.9225e-01],
+         [8.4728e+02, 3.7895e+02, 9.8364e-01],
+         [1.1091e+03, 4.5091e+02, 9.6267e-01],
+         [7.5734e+02, 4.7945e+02, 7.2266e-01],
+         [1.4046e+03, 9.1896e+02, 8.9295e-01],
+         [5.3076e+02, 9.2414e+02, 9.1434e-01],
+         [0.0000e+00, 0.0000e+00, 1.7287e-02],
+         [0.0000e+00, 0.0000e+00, 2.4141e-02],
+         [0.0000e+00, 0.0000e+00, 2.2382e-02],
+         [0.0000e+00, 0.0000e+00, 2.2986e-02],
+         [0.0000e+00, 0.0000e+00, 4.2213e-03],
+         [0.0000e+00, 0.0000e+00, 5.1036e-03],
+         [0.0000e+00, 0.0000e+00, 2.0846e-03],
+         [0.0000e+00, 0.0000e+00, 3.1533e-03],
+         [0.0000e+00, 0.0000e+00, 2.7045e-03],
+         [0.0000e+00, 0.0000e+00, 3.8760e-03]]])
+has_visible: True
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 17, 3])
+xy: tensor([[[ 918.6252,  435.5609],
+         [ 987.3477,  366.9007],
+         [ 847.2849,  378.9480],
+         [1109.0793,  450.9114],
+         [ 757.3367,  479.4452],
+         [1404.6281,  918.9628],
+         [ 530.7587,  924.1441],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000]]])
+xyn: tensor([[[0.4785, 0.4033],
+         [0.5142, 0.3397],
+         [0.4413, 0.3509],
+         [0.5776, 0.4175],
+         [0.3944, 0.4439],
+         [0.7316, 0.8509],
+         [0.2764, 0.8557],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000]]])ultralytics.engine.results.Keypoints object with attributes:
+
+conf: tensor([[0.9882, 0.9918, 0.9838, 0.9599, 0.7395, 0.8881, 0.9135, 0.0161, 0.0232, 0.0203, 0.0213, 0.0042, 0.0052, 0.0021, 0.0032, 0.0028, 0.0040]])
+data: tensor([[[9.1982e+02, 4.3354e+02, 9.8816e-01],
+         [9.8698e+02, 3.6624e+02, 9.9182e-01],
+         [8.4845e+02, 3.7825e+02, 9.8383e-01],
+         [1.1069e+03, 4.5260e+02, 9.5992e-01],
+         [7.5793e+02, 4.8195e+02, 7.3953e-01],
+         [1.3995e+03, 9.2129e+02, 8.8813e-01],
+         [5.3062e+02, 9.3141e+02, 9.1347e-01],
+         [0.0000e+00, 0.0000e+00, 1.6135e-02],
+         [0.0000e+00, 0.0000e+00, 2.3161e-02],
+         [0.0000e+00, 0.0000e+00, 2.0329e-02],
+         [0.0000e+00, 0.0000e+00, 2.1337e-02],
+         [0.0000e+00, 0.0000e+00, 4.2245e-03],
+         [0.0000e+00, 0.0000e+00, 5.1511e-03],
+         [0.0000e+00, 0.0000e+00, 2.1159e-03],
+         [0.0000e+00, 0.0000e+00, 3.2212e-03],
+         [0.0000e+00, 0.0000e+00, 2.8116e-03],
+         [0.0000e+00, 0.0000e+00, 4.0266e-03]]])
+has_visible: True
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 17, 3])
+xy: tensor([[[ 919.8168,  433.5351],
+         [ 986.9791,  366.2410],
+         [ 848.4496,  378.2502],
+         [1106.8568,  452.6014],
+         [ 757.9348,  481.9478],
+         [1399.5323,  921.2928],
+         [ 530.6230,  931.4103],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000]]])
+xyn: tensor([[[0.4791, 0.4014],
+         [0.5141, 0.3391],
+         [0.4419, 0.3502],
+         [0.5765, 0.4191],
+         [0.3948, 0.4462],
+         [0.7289, 0.8530],
+         [0.2764, 0.8624],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000]]])ultralytics.engine.results.Keypoints object with attributes:
+
+conf: tensor([[0.9880, 0.9917, 0.9834, 0.9594, 0.7371, 0.8923, 0.9123, 0.0167, 0.0221, 0.0202, 0.0201, 0.0045, 0.0053, 0.0022, 0.0032, 0.0028, 0.0039]])
+data: tensor([[[9.2110e+02, 4.3364e+02, 9.8803e-01],
+         [9.8821e+02, 3.6696e+02, 9.9173e-01],
+         [8.5059e+02, 3.7814e+02, 9.8338e-01],
+         [1.1074e+03, 4.5282e+02, 9.5937e-01],
+         [7.6063e+02, 4.8017e+02, 7.3708e-01],
+         [1.3976e+03, 9.2091e+02, 8.9230e-01],
+         [5.3524e+02, 9.3409e+02, 9.1228e-01],
+         [0.0000e+00, 0.0000e+00, 1.6720e-02],
+         [0.0000e+00, 0.0000e+00, 2.2149e-02],
+         [0.0000e+00, 0.0000e+00, 2.0211e-02],
+         [0.0000e+00, 0.0000e+00, 2.0052e-02],
+         [0.0000e+00, 0.0000e+00, 4.5121e-03],
+         [0.0000e+00, 0.0000e+00, 5.3107e-03],
+         [0.0000e+00, 0.0000e+00, 2.1711e-03],
+         [0.0000e+00, 0.0000e+00, 3.2063e-03],
+         [0.0000e+00, 0.0000e+00, 2.8215e-03],
+         [0.0000e+00, 0.0000e+00, 3.9463e-03]]])
+has_visible: True
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 17, 3])
+xy: tensor([[[ 921.0973,  433.6354],
+         [ 988.2087,  366.9568],
+         [ 850.5932,  378.1382],
+         [1107.4410,  452.8229],
+         [ 760.6315,  480.1685],
+         [1397.5920,  920.9066],
+         [ 535.2414,  934.0856],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000]]])
+xyn: tensor([[[0.4797, 0.4015],
+         [0.5147, 0.3398],
+         [0.4430, 0.3501],
+         [0.5768, 0.4193],
+         [0.3962, 0.4446],
+         [0.7279, 0.8527],
+         [0.2788, 0.8649],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000]]])ultralytics.engine.results.Keypoints object with attributes:
+
+conf: tensor([[0.9876, 0.9914, 0.9830, 0.9590, 0.7435, 0.8931, 0.9147, 0.0169, 0.0230, 0.0204, 0.0209, 0.0045, 0.0054, 0.0022, 0.0032, 0.0028, 0.0039]])
+data: tensor([[[9.2210e+02, 4.3202e+02, 9.8764e-01],
+         [9.8840e+02, 3.6588e+02, 9.9136e-01],
+         [8.5174e+02, 3.7798e+02, 9.8302e-01],
+         [1.1071e+03, 4.5269e+02, 9.5900e-01],
+         [7.6242e+02, 4.8203e+02, 7.4354e-01],
+         [1.3992e+03, 9.1931e+02, 8.9305e-01],
+         [5.3385e+02, 9.3267e+02, 9.1475e-01],
+         [0.0000e+00, 0.0000e+00, 1.6880e-02],
+         [0.0000e+00, 0.0000e+00, 2.3022e-02],
+         [0.0000e+00, 0.0000e+00, 2.0440e-02],
+         [0.0000e+00, 0.0000e+00, 2.0873e-02],
+         [0.0000e+00, 0.0000e+00, 4.5447e-03],
+         [0.0000e+00, 0.0000e+00, 5.4190e-03],
+         [0.0000e+00, 0.0000e+00, 2.1674e-03],
+         [0.0000e+00, 0.0000e+00, 3.2394e-03],
+         [0.0000e+00, 0.0000e+00, 2.7904e-03],
+         [0.0000e+00, 0.0000e+00, 3.9292e-03]]])
+has_visible: True
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 17, 3])
+xy: tensor([[[ 922.1003,  432.0179],
+         [ 988.4004,  365.8802],
+         [ 851.7433,  377.9790],
+         [1107.1461,  452.6895],
+         [ 762.4230,  482.0267],
+         [1399.1642,  919.3137],
+         [ 533.8456,  932.6678],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000]]])
+xyn: tensor([[[0.4803, 0.4000],
+         [0.5148, 0.3388],
+         [0.4436, 0.3500],
+         [0.5766, 0.4192],
+         [0.3971, 0.4463],
+         [0.7287, 0.8512],
+         [0.2780, 0.8636],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000]]])ultralytics.engine.results.Keypoints object with attributes:
+
+conf: tensor([[0.9875, 0.9911, 0.9828, 0.9578, 0.7464, 0.8970, 0.9163, 0.0184, 0.0243, 0.0221, 0.0219, 0.0048, 0.0057, 0.0022, 0.0032, 0.0028, 0.0038]])
+data: tensor([[[9.2632e+02, 4.3143e+02, 9.8749e-01],
+         [9.9250e+02, 3.6579e+02, 9.9110e-01],
+         [8.5633e+02, 3.7734e+02, 9.8276e-01],
+         [1.1100e+03, 4.5199e+02, 9.5783e-01],
+         [7.6677e+02, 4.7998e+02, 7.4639e-01],
+         [1.3984e+03, 9.1673e+02, 8.9698e-01],
+         [5.3604e+02, 9.2835e+02, 9.1629e-01],
+         [0.0000e+00, 0.0000e+00, 1.8363e-02],
+         [0.0000e+00, 0.0000e+00, 2.4295e-02],
+         [0.0000e+00, 0.0000e+00, 2.2059e-02],
+         [0.0000e+00, 0.0000e+00, 2.1925e-02],
+         [0.0000e+00, 0.0000e+00, 4.8199e-03],
+         [0.0000e+00, 0.0000e+00, 5.6601e-03],
+         [0.0000e+00, 0.0000e+00, 2.1994e-03],
+         [0.0000e+00, 0.0000e+00, 3.2418e-03],
+         [0.0000e+00, 0.0000e+00, 2.7551e-03],
+         [0.0000e+00, 0.0000e+00, 3.8319e-03]]])
+has_visible: True
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 17, 3])
+xy: tensor([[[ 926.3234,  431.4334],
+         [ 992.4960,  365.7944],
+         [ 856.3293,  377.3435],
+         [1109.9769,  451.9903],
+         [ 766.7709,  479.9842],
+         [1398.4019,  916.7331],
+         [ 536.0407,  928.3544],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000]]])
+xyn: tensor([[[0.4825, 0.3995],
+         [0.5169, 0.3387],
+         [0.4460, 0.3494],
+         [0.5781, 0.4185],
+         [0.3994, 0.4444],
+         [0.7283, 0.8488],
+         [0.2792, 0.8596],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000]]])ultralytics.engine.results.Keypoints object with attributes:
+
+conf: tensor([[0.9878, 0.9913, 0.9827, 0.9565, 0.7372, 0.8968, 0.9142, 0.0198, 0.0256, 0.0241, 0.0235, 0.0051, 0.0059, 0.0023, 0.0034, 0.0029, 0.0039]])
+data: tensor([[[9.2997e+02, 4.3323e+02, 9.8780e-01],
+         [9.9579e+02, 3.6666e+02, 9.9128e-01],
+         [8.6067e+02, 3.7901e+02, 9.8266e-01],
+         [1.1141e+03, 4.4989e+02, 9.5646e-01],
+         [7.7254e+02, 4.7889e+02, 7.3716e-01],
+         [1.3994e+03, 9.1056e+02, 8.9684e-01],
+         [5.4759e+02, 9.2406e+02, 9.1422e-01],
+         [0.0000e+00, 0.0000e+00, 1.9829e-02],
+         [0.0000e+00, 0.0000e+00, 2.5583e-02],
+         [0.0000e+00, 0.0000e+00, 2.4087e-02],
+         [0.0000e+00, 0.0000e+00, 2.3531e-02],
+         [0.0000e+00, 0.0000e+00, 5.1284e-03],
+         [0.0000e+00, 0.0000e+00, 5.9420e-03],
+         [0.0000e+00, 0.0000e+00, 2.3259e-03],
+         [0.0000e+00, 0.0000e+00, 3.3682e-03],
+         [0.0000e+00, 0.0000e+00, 2.8532e-03],
+         [0.0000e+00, 0.0000e+00, 3.9177e-03]]])
+has_visible: True
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 17, 3])
+xy: tensor([[[ 929.9746,  433.2263],
+         [ 995.7936,  366.6622],
+         [ 860.6716,  379.0065],
+         [1114.0707,  449.8863],
+         [ 772.5435,  478.8908],
+         [1399.3595,  910.5551],
+         [ 547.5894,  924.0577],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000]]])
+xyn: tensor([[[0.4844, 0.4011],
+         [0.5186, 0.3395],
+         [0.4483, 0.3509],
+         [0.5802, 0.4166],
+         [0.4024, 0.4434],
+         [0.7288, 0.8431],
+         [0.2852, 0.8556],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000]]])ultralytics.engine.results.Keypoints object with attributes:
+
+conf: tensor([[0.9881, 0.9915, 0.9830, 0.9560, 0.7351, 0.8970, 0.9146, 0.0209, 0.0258, 0.0263, 0.0246, 0.0050, 0.0056, 0.0023, 0.0033, 0.0029, 0.0039]])
+data: tensor([[[9.3452e+02, 4.3532e+02, 9.8806e-01],
+         [1.0009e+03, 3.6836e+02, 9.9150e-01],
+         [8.6478e+02, 3.8030e+02, 9.8299e-01],
+         [1.1189e+03, 4.5181e+02, 9.5599e-01],
+         [7.7470e+02, 4.8038e+02, 7.3511e-01],
+         [1.4002e+03, 9.1138e+02, 8.9695e-01],
+         [5.4657e+02, 9.3002e+02, 9.1461e-01],
+         [0.0000e+00, 0.0000e+00, 2.0925e-02],
+         [0.0000e+00, 0.0000e+00, 2.5809e-02],
+         [0.0000e+00, 0.0000e+00, 2.6336e-02],
+         [0.0000e+00, 0.0000e+00, 2.4617e-02],
+         [0.0000e+00, 0.0000e+00, 4.9792e-03],
+         [0.0000e+00, 0.0000e+00, 5.6430e-03],
+         [0.0000e+00, 0.0000e+00, 2.3343e-03],
+         [0.0000e+00, 0.0000e+00, 3.2905e-03],
+         [0.0000e+00, 0.0000e+00, 2.8606e-03],
+         [0.0000e+00, 0.0000e+00, 3.8679e-03]]])
+has_visible: True
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 17, 3])
+xy: tensor([[[ 934.5201,  435.3183],
+         [1000.9466,  368.3621],
+         [ 864.7751,  380.3006],
+         [1118.9418,  451.8096],
+         [ 774.7018,  480.3810],
+         [1400.1907,  911.3822],
+         [ 546.5742,  930.0162],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000]]])
+xyn: tensor([[[0.4867, 0.4031],
+         [0.5213, 0.3411],
+         [0.4504, 0.3521],
+         [0.5828, 0.4183],
+         [0.4035, 0.4448],
+         [0.7293, 0.8439],
+         [0.2847, 0.8611],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000]]])ultralytics.engine.results.Keypoints object with attributes:
+
+conf: tensor([[0.9884, 0.9918, 0.9834, 0.9557, 0.7333, 0.8965, 0.9138, 0.0225, 0.0267, 0.0287, 0.0261, 0.0051, 0.0057, 0.0023, 0.0032, 0.0028, 0.0038]])
+data: tensor([[[9.3715e+02, 4.3620e+02, 9.8844e-01],
+         [1.0037e+03, 3.6963e+02, 9.9180e-01],
+         [8.6744e+02, 3.8168e+02, 9.8344e-01],
+         [1.1219e+03, 4.5391e+02, 9.5574e-01],
+         [7.7696e+02, 4.8266e+02, 7.3333e-01],
+         [1.4021e+03, 9.0885e+02, 8.9649e-01],
+         [5.4645e+02, 9.3030e+02, 9.1380e-01],
+         [0.0000e+00, 0.0000e+00, 2.2476e-02],
+         [0.0000e+00, 0.0000e+00, 2.6665e-02],
+         [0.0000e+00, 0.0000e+00, 2.8724e-02],
+         [0.0000e+00, 0.0000e+00, 2.6147e-02],
+         [0.0000e+00, 0.0000e+00, 5.1011e-03],
+         [0.0000e+00, 0.0000e+00, 5.6753e-03],
+         [0.0000e+00, 0.0000e+00, 2.3455e-03],
+         [0.0000e+00, 0.0000e+00, 3.2419e-03],
+         [0.0000e+00, 0.0000e+00, 2.8282e-03],
+         [0.0000e+00, 0.0000e+00, 3.7815e-03]]])
+has_visible: True
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 17, 3])
+xy: tensor([[[ 937.1501,  436.1974],
+         [1003.7267,  369.6287],
+         [ 867.4371,  381.6809],
+         [1121.9198,  453.9099],
+         [ 776.9603,  482.6628],
+         [1402.1210,  908.8506],
+         [ 546.4520,  930.2985],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000]]])
+xyn: tensor([[[0.4881, 0.4039],
+         [0.5228, 0.3422],
+         [0.4518, 0.3534],
+         [0.5843, 0.4203],
+         [0.4047, 0.4469],
+         [0.7303, 0.8415],
+         [0.2846, 0.8614],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000]]])ultralytics.engine.results.Keypoints object with attributes:
+
+conf: tensor([[0.9884, 0.9917, 0.9838, 0.9542, 0.7296, 0.8875, 0.9093, 0.0201, 0.0266, 0.0266, 0.0260, 0.0047, 0.0054, 0.0023, 0.0033, 0.0029, 0.0039]])
+data: tensor([[[9.4197e+02, 4.4088e+02, 9.8838e-01],
+         [1.0104e+03, 3.7269e+02, 9.9166e-01],
+         [8.7135e+02, 3.8314e+02, 9.8381e-01],
+         [1.1293e+03, 4.5520e+02, 9.5417e-01],
+         [7.7932e+02, 4.8024e+02, 7.2955e-01],
+         [1.4042e+03, 9.1302e+02, 8.8753e-01],
+         [5.5555e+02, 9.2557e+02, 9.0932e-01],
+         [0.0000e+00, 0.0000e+00, 2.0099e-02],
+         [0.0000e+00, 0.0000e+00, 2.6623e-02],
+         [0.0000e+00, 0.0000e+00, 2.6567e-02],
+         [0.0000e+00, 0.0000e+00, 2.5986e-02],
+         [0.0000e+00, 0.0000e+00, 4.7012e-03],
+         [0.0000e+00, 0.0000e+00, 5.4380e-03],
+         [0.0000e+00, 0.0000e+00, 2.2588e-03],
+         [0.0000e+00, 0.0000e+00, 3.2502e-03],
+         [0.0000e+00, 0.0000e+00, 2.8507e-03],
+         [0.0000e+00, 0.0000e+00, 3.9053e-03]]])
+has_visible: True
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 17, 3])
+xy: tensor([[[ 941.9745,  440.8813],
+         [1010.4442,  372.6893],
+         [ 871.3510,  383.1393],
+         [1129.3395,  455.2043],
+         [ 779.3151,  480.2441],
+         [1404.1560,  913.0249],
+         [ 555.5535,  925.5732],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000]]])
+xyn: tensor([[[0.4906, 0.4082],
+         [0.5263, 0.3451],
+         [0.4538, 0.3548],
+         [0.5882, 0.4215],
+         [0.4059, 0.4447],
+         [0.7313, 0.8454],
+         [0.2894, 0.8570],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000]]])ultralytics.engine.results.Keypoints object with attributes:
+
+conf: tensor([[0.9910, 0.9941, 0.9887, 0.9585, 0.7787, 0.8370, 0.9169, 0.0119, 0.0219, 0.0154, 0.0196, 0.0022, 0.0031, 0.0012, 0.0018, 0.0024, 0.0034]])
+data: tensor([[[9.4437e+02, 4.4321e+02, 9.9100e-01],
+         [1.0161e+03, 3.7008e+02, 9.9413e-01],
+         [8.7333e+02, 3.8036e+02, 9.8870e-01],
+         [1.1395e+03, 4.5579e+02, 9.5853e-01],
+         [7.8420e+02, 4.7747e+02, 7.7870e-01],
+         [1.3971e+03, 9.2711e+02, 8.3699e-01],
+         [5.6560e+02, 9.3216e+02, 9.1693e-01],
+         [0.0000e+00, 0.0000e+00, 1.1914e-02],
+         [0.0000e+00, 0.0000e+00, 2.1859e-02],
+         [0.0000e+00, 0.0000e+00, 1.5368e-02],
+         [0.0000e+00, 0.0000e+00, 1.9562e-02],
+         [0.0000e+00, 0.0000e+00, 2.1988e-03],
+         [0.0000e+00, 0.0000e+00, 3.0505e-03],
+         [0.0000e+00, 0.0000e+00, 1.1780e-03],
+         [0.0000e+00, 0.0000e+00, 1.7702e-03],
+         [0.0000e+00, 0.0000e+00, 2.4174e-03],
+         [0.0000e+00, 0.0000e+00, 3.4202e-03]]])
+has_visible: True
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 17, 3])
+xy: tensor([[[ 944.3736,  443.2067],
+         [1016.0510,  370.0766],
+         [ 873.3276,  380.3602],
+         [1139.5062,  455.7910],
+         [ 784.2032,  477.4660],
+         [1397.0868,  927.1064],
+         [ 565.5994,  932.1578],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000]]])
+xyn: tensor([[[0.4919, 0.4104],
+         [0.5292, 0.3427],
+         [0.4549, 0.3522],
+         [0.5935, 0.4220],
+         [0.4084, 0.4421],
+         [0.7276, 0.8584],
+         [0.2946, 0.8631],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000]]])ultralytics.engine.results.Keypoints object with attributes:
+
+conf: tensor([[0.9908, 0.9941, 0.9885, 0.9594, 0.7710, 0.8279, 0.9160, 0.0109, 0.0216, 0.0151, 0.0201, 0.0021, 0.0030, 0.0012, 0.0018, 0.0025, 0.0036]])
+data: tensor([[[9.4646e+02, 4.4519e+02, 9.9079e-01],
+         [1.0183e+03, 3.7081e+02, 9.9411e-01],
+         [8.7447e+02, 3.8156e+02, 9.8847e-01],
+         [1.1425e+03, 4.5609e+02, 9.5941e-01],
+         [7.8405e+02, 4.7925e+02, 7.7097e-01],
+         [1.4027e+03, 9.2929e+02, 8.2793e-01],
+         [5.6628e+02, 9.3495e+02, 9.1602e-01],
+         [0.0000e+00, 0.0000e+00, 1.0913e-02],
+         [0.0000e+00, 0.0000e+00, 2.1598e-02],
+         [0.0000e+00, 0.0000e+00, 1.5072e-02],
+         [0.0000e+00, 0.0000e+00, 2.0117e-02],
+         [0.0000e+00, 0.0000e+00, 2.1089e-03],
+         [0.0000e+00, 0.0000e+00, 3.0198e-03],
+         [0.0000e+00, 0.0000e+00, 1.1922e-03],
+         [0.0000e+00, 0.0000e+00, 1.8376e-03],
+         [0.0000e+00, 0.0000e+00, 2.4821e-03],
+         [0.0000e+00, 0.0000e+00, 3.5929e-03]]])
+has_visible: True
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 17, 3])
+xy: tensor([[[ 946.4596,  445.1917],
+         [1018.2770,  370.8070],
+         [ 874.4742,  381.5585],
+         [1142.5282,  456.0917],
+         [ 784.0510,  479.2464],
+         [1402.7413,  929.2902],
+         [ 566.2767,  934.9504],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000]]])
+xyn: tensor([[[0.4929, 0.4122],
+         [0.5304, 0.3433],
+         [0.4555, 0.3533],
+         [0.5951, 0.4223],
+         [0.4084, 0.4437],
+         [0.7306, 0.8605],
+         [0.2949, 0.8657],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000]]])ultralytics.engine.results.Keypoints object with attributes:
+
+conf: tensor([[0.9909, 0.9943, 0.9883, 0.9601, 0.7634, 0.8315, 0.9124, 0.0114, 0.0207, 0.0155, 0.0195, 0.0021, 0.0029, 0.0012, 0.0018, 0.0025, 0.0035]])
+data: tensor([[[9.4749e+02, 4.4633e+02, 9.9091e-01],
+         [1.0195e+03, 3.7115e+02, 9.9429e-01],
+         [8.7495e+02, 3.8176e+02, 9.8831e-01],
+         [1.1435e+03, 4.5498e+02, 9.6012e-01],
+         [7.8428e+02, 4.7790e+02, 7.6339e-01],
+         [1.4024e+03, 9.2902e+02, 8.3148e-01],
+         [5.6982e+02, 9.3259e+02, 9.1242e-01],
+         [0.0000e+00, 0.0000e+00, 1.1406e-02],
+         [0.0000e+00, 0.0000e+00, 2.0700e-02],
+         [0.0000e+00, 0.0000e+00, 1.5473e-02],
+         [0.0000e+00, 0.0000e+00, 1.9505e-02],
+         [0.0000e+00, 0.0000e+00, 2.1122e-03],
+         [0.0000e+00, 0.0000e+00, 2.9211e-03],
+         [0.0000e+00, 0.0000e+00, 1.1977e-03],
+         [0.0000e+00, 0.0000e+00, 1.7903e-03],
+         [0.0000e+00, 0.0000e+00, 2.4814e-03],
+         [0.0000e+00, 0.0000e+00, 3.5228e-03]]])
+has_visible: True
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 17, 3])
+xy: tensor([[[ 947.4907,  446.3268],
+         [1019.5450,  371.1499],
+         [ 874.9450,  381.7555],
+         [1143.4945,  454.9849],
+         [ 784.2820,  477.8960],
+         [1402.4109,  929.0165],
+         [ 569.8242,  932.5853],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000]]])
+xyn: tensor([[[0.4935, 0.4133],
+         [0.5310, 0.3437],
+         [0.4557, 0.3535],
+         [0.5956, 0.4213],
+         [0.4085, 0.4425],
+         [0.7304, 0.8602],
+         [0.2968, 0.8635],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000]]])ultralytics.engine.results.Keypoints object with attributes:
+
+conf: tensor([[0.9898, 0.9937, 0.9876, 0.9628, 0.7666, 0.8431, 0.9089, 0.0095, 0.0182, 0.0118, 0.0156, 0.0022, 0.0031, 0.0014, 0.0023, 0.0027, 0.0041]])
+data: tensor([[[9.5124e+02, 4.4552e+02, 9.8978e-01],
+         [1.0207e+03, 3.7564e+02, 9.9375e-01],
+         [8.7984e+02, 3.8352e+02, 9.8758e-01],
+         [1.1384e+03, 4.5387e+02, 9.6284e-01],
+         [7.8738e+02, 4.7222e+02, 7.6655e-01],
+         [1.4139e+03, 9.2539e+02, 8.4307e-01],
+         [5.6691e+02, 9.1575e+02, 9.0888e-01],
+         [0.0000e+00, 0.0000e+00, 9.5306e-03],
+         [0.0000e+00, 0.0000e+00, 1.8163e-02],
+         [0.0000e+00, 0.0000e+00, 1.1780e-02],
+         [0.0000e+00, 0.0000e+00, 1.5623e-02],
+         [0.0000e+00, 0.0000e+00, 2.1777e-03],
+         [0.0000e+00, 0.0000e+00, 3.0581e-03],
+         [0.0000e+00, 0.0000e+00, 1.4102e-03],
+         [0.0000e+00, 0.0000e+00, 2.2941e-03],
+         [0.0000e+00, 0.0000e+00, 2.7199e-03],
+         [0.0000e+00, 0.0000e+00, 4.1224e-03]]])
+has_visible: True
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 17, 3])
+xy: tensor([[[ 951.2382,  445.5184],
+         [1020.6731,  375.6361],
+         [ 879.8388,  383.5211],
+         [1138.4213,  453.8676],
+         [ 787.3765,  472.2210],
+         [1413.9376,  925.3907],
+         [ 566.9142,  915.7482],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000]]])
+xyn: tensor([[[0.4954, 0.4125],
+         [0.5316, 0.3478],
+         [0.4582, 0.3551],
+         [0.5929, 0.4202],
+         [0.4101, 0.4372],
+         [0.7364, 0.8568],
+         [0.2953, 0.8479],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000]]])ultralytics.engine.results.Keypoints object with attributes:
+
+conf: tensor([[0.9908, 0.9944, 0.9882, 0.9607, 0.7599, 0.8201, 0.9092, 0.0100, 0.0191, 0.0134, 0.0179, 0.0019, 0.0027, 0.0011, 0.0017, 0.0025, 0.0035]])
+data: tensor([[[9.4925e+02, 4.4844e+02, 9.9079e-01],
+         [1.0207e+03, 3.7098e+02, 9.9441e-01],
+         [8.7580e+02, 3.8202e+02, 9.8822e-01],
+         [1.1438e+03, 4.5207e+02, 9.6069e-01],
+         [7.8428e+02, 4.7645e+02, 7.5991e-01],
+         [1.4085e+03, 9.2884e+02, 8.2007e-01],
+         [5.7131e+02, 9.3621e+02, 9.0916e-01],
+         [0.0000e+00, 0.0000e+00, 9.9757e-03],
+         [0.0000e+00, 0.0000e+00, 1.9144e-02],
+         [0.0000e+00, 0.0000e+00, 1.3432e-02],
+         [0.0000e+00, 0.0000e+00, 1.7864e-02],
+         [0.0000e+00, 0.0000e+00, 1.8710e-03],
+         [0.0000e+00, 0.0000e+00, 2.6572e-03],
+         [0.0000e+00, 0.0000e+00, 1.1238e-03],
+         [0.0000e+00, 0.0000e+00, 1.7129e-03],
+         [0.0000e+00, 0.0000e+00, 2.4603e-03],
+         [0.0000e+00, 0.0000e+00, 3.5460e-03]]])
+has_visible: True
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 17, 3])
+xy: tensor([[[ 949.2459,  448.4422],
+         [1020.6638,  370.9801],
+         [ 875.8015,  382.0194],
+         [1143.7620,  452.0720],
+         [ 784.2822,  476.4471],
+         [1408.5033,  928.8391],
+         [ 571.3077,  936.2086],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000]]])
+xyn: tensor([[[0.4944, 0.4152],
+         [0.5316, 0.3435],
+         [0.4561, 0.3537],
+         [0.5957, 0.4186],
+         [0.4085, 0.4412],
+         [0.7336, 0.8600],
+         [0.2976, 0.8669],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000]]])ultralytics.engine.results.Keypoints object with attributes:
+
+conf: tensor([[0.9875, 0.9917, 0.9817, 0.9606, 0.7361, 0.8588, 0.9128, 0.0116, 0.0263, 0.0185, 0.0302, 0.0029, 0.0047, 0.0019, 0.0034, 0.0025, 0.0041]])
+data: tensor([[[9.5239e+02, 4.4725e+02, 9.8748e-01],
+         [1.0156e+03, 3.7832e+02, 9.9173e-01],
+         [8.7669e+02, 3.8532e+02, 9.8172e-01],
+         [1.1269e+03, 4.5671e+02, 9.6060e-01],
+         [7.8021e+02, 4.7831e+02, 7.3606e-01],
+         [1.4156e+03, 9.3977e+02, 8.5879e-01],
+         [5.9398e+02, 9.1843e+02, 9.1276e-01],
+         [0.0000e+00, 0.0000e+00, 1.1626e-02],
+         [0.0000e+00, 0.0000e+00, 2.6251e-02],
+         [0.0000e+00, 0.0000e+00, 1.8537e-02],
+         [0.0000e+00, 0.0000e+00, 3.0173e-02],
+         [0.0000e+00, 0.0000e+00, 2.9019e-03],
+         [0.0000e+00, 0.0000e+00, 4.7096e-03],
+         [0.0000e+00, 0.0000e+00, 1.8641e-03],
+         [0.0000e+00, 0.0000e+00, 3.4409e-03],
+         [0.0000e+00, 0.0000e+00, 2.4835e-03],
+         [0.0000e+00, 0.0000e+00, 4.1160e-03]]])
+has_visible: True
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 17, 3])
+xy: tensor([[[ 952.3920,  447.2480],
+         [1015.5806,  378.3232],
+         [ 876.6909,  385.3207],
+         [1126.8812,  456.7131],
+         [ 780.2094,  478.3090],
+         [1415.5825,  939.7729],
+         [ 593.9835,  918.4303],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000]]])
+xyn: tensor([[[0.4960, 0.4141],
+         [0.5289, 0.3503],
+         [0.4566, 0.3568],
+         [0.5869, 0.4229],
+         [0.4064, 0.4429],
+         [0.7373, 0.8702],
+         [0.3094, 0.8504],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000]]])ultralytics.engine.results.Keypoints object with attributes:
+
+conf: tensor([[0.9904, 0.9942, 0.9878, 0.9654, 0.7512, 0.8466, 0.9098, 0.0096, 0.0185, 0.0121, 0.0158, 0.0022, 0.0031, 0.0014, 0.0023, 0.0026, 0.0040]])
+data: tensor([[[9.4569e+02, 4.4888e+02, 9.9040e-01],
+         [1.0153e+03, 3.7647e+02, 9.9421e-01],
+         [8.7304e+02, 3.8678e+02, 9.8776e-01],
+         [1.1365e+03, 4.5268e+02, 9.6538e-01],
+         [7.8205e+02, 4.7603e+02, 7.5124e-01],
+         [1.4161e+03, 9.2972e+02, 8.4656e-01],
+         [5.7509e+02, 9.2039e+02, 9.0976e-01],
+         [0.0000e+00, 0.0000e+00, 9.6349e-03],
+         [0.0000e+00, 0.0000e+00, 1.8481e-02],
+         [0.0000e+00, 0.0000e+00, 1.2085e-02],
+         [0.0000e+00, 0.0000e+00, 1.5758e-02],
+         [0.0000e+00, 0.0000e+00, 2.2213e-03],
+         [0.0000e+00, 0.0000e+00, 3.1334e-03],
+         [0.0000e+00, 0.0000e+00, 1.3848e-03],
+         [0.0000e+00, 0.0000e+00, 2.2612e-03],
+         [0.0000e+00, 0.0000e+00, 2.5924e-03],
+         [0.0000e+00, 0.0000e+00, 3.9613e-03]]])
+has_visible: True
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 17, 3])
+xy: tensor([[[ 945.6909,  448.8752],
+         [1015.3349,  376.4695],
+         [ 873.0388,  386.7754],
+         [1136.4996,  452.6769],
+         [ 782.0522,  476.0261],
+         [1416.0732,  929.7164],
+         [ 575.0900,  920.3936],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000]]])
+xyn: tensor([[[0.4925, 0.4156],
+         [0.5288, 0.3486],
+         [0.4547, 0.3581],
+         [0.5919, 0.4191],
+         [0.4073, 0.4408],
+         [0.7375, 0.8608],
+         [0.2995, 0.8522],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000]]])ultralytics.engine.results.Keypoints object with attributes:
+
+conf: tensor([[0.9881, 0.9924, 0.9830, 0.9607, 0.7156, 0.8842, 0.8991, 0.0155, 0.0174, 0.0207, 0.0182, 0.0036, 0.0040, 0.0021, 0.0029, 0.0030, 0.0039]])
+data: tensor([[[9.2913e+02, 4.5160e+02, 9.8808e-01],
+         [1.0000e+03, 3.7688e+02, 9.9240e-01],
+         [8.5760e+02, 3.8892e+02, 9.8295e-01],
+         [1.1237e+03, 4.5816e+02, 9.6071e-01],
+         [7.6645e+02, 4.8587e+02, 7.1556e-01],
+         [1.4123e+03, 9.3918e+02, 8.8425e-01],
+         [5.3183e+02, 9.5633e+02, 8.9908e-01],
+         [0.0000e+00, 0.0000e+00, 1.5524e-02],
+         [0.0000e+00, 0.0000e+00, 1.7438e-02],
+         [0.0000e+00, 0.0000e+00, 2.0651e-02],
+         [0.0000e+00, 0.0000e+00, 1.8195e-02],
+         [0.0000e+00, 0.0000e+00, 3.6238e-03],
+         [0.0000e+00, 0.0000e+00, 3.9884e-03],
+         [0.0000e+00, 0.0000e+00, 2.1227e-03],
+         [0.0000e+00, 0.0000e+00, 2.8666e-03],
+         [0.0000e+00, 0.0000e+00, 2.9996e-03],
+         [0.0000e+00, 0.0000e+00, 3.9437e-03]]])
+has_visible: True
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 17, 3])
+xy: tensor([[[ 929.1268,  451.6042],
+         [1000.0036,  376.8791],
+         [ 857.6039,  388.9229],
+         [1123.6615,  458.1619],
+         [ 766.4482,  485.8705],
+         [1412.3038,  939.1849],
+         [ 531.8262,  956.3330],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000]]])
+xyn: tensor([[[0.4839, 0.4182],
+         [0.5208, 0.3490],
+         [0.4467, 0.3601],
+         [0.5852, 0.4242],
+         [0.3992, 0.4499],
+         [0.7356, 0.8696],
+         [0.2770, 0.8855],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000]]])ultralytics.engine.results.Keypoints object with attributes:
+
+conf: tensor([[0.9883, 0.9922, 0.9842, 0.9542, 0.7519, 0.8468, 0.8889, 0.0116, 0.0198, 0.0189, 0.0238, 0.0024, 0.0033, 0.0020, 0.0032, 0.0031, 0.0046]])
+data: tensor([[[9.2123e+02, 4.5728e+02, 9.8829e-01],
+         [9.9050e+02, 3.8062e+02, 9.9216e-01],
+         [8.4653e+02, 3.9064e+02, 9.8419e-01],
+         [1.1096e+03, 4.5876e+02, 9.5415e-01],
+         [7.5477e+02, 4.8252e+02, 7.5187e-01],
+         [1.3974e+03, 9.3998e+02, 8.4681e-01],
+         [5.4002e+02, 9.2918e+02, 8.8889e-01],
+         [0.0000e+00, 0.0000e+00, 1.1606e-02],
+         [0.0000e+00, 0.0000e+00, 1.9848e-02],
+         [0.0000e+00, 0.0000e+00, 1.8933e-02],
+         [0.0000e+00, 0.0000e+00, 2.3816e-02],
+         [0.0000e+00, 0.0000e+00, 2.3657e-03],
+         [0.0000e+00, 0.0000e+00, 3.2778e-03],
+         [0.0000e+00, 0.0000e+00, 1.9698e-03],
+         [0.0000e+00, 0.0000e+00, 3.2018e-03],
+         [0.0000e+00, 0.0000e+00, 3.0861e-03],
+         [0.0000e+00, 0.0000e+00, 4.5898e-03]]])
+has_visible: True
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 17, 3])
+xy: tensor([[[ 921.2271,  457.2754],
+         [ 990.4954,  380.6217],
+         [ 846.5294,  390.6426],
+         [1109.6338,  458.7623],
+         [ 754.7667,  482.5191],
+         [1397.4030,  939.9763],
+         [ 540.0191,  929.1761],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000]]])
+xyn: tensor([[[0.4798, 0.4234],
+         [0.5159, 0.3524],
+         [0.4409, 0.3617],
+         [0.5779, 0.4248],
+         [0.3931, 0.4468],
+         [0.7278, 0.8703],
+         [0.2813, 0.8603],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000]]])ultralytics.engine.results.Keypoints object with attributes:
+
+conf: tensor([[0.9877, 0.9926, 0.9817, 0.9636, 0.7024, 0.8526, 0.8874, 0.0112, 0.0181, 0.0205, 0.0245, 0.0021, 0.0029, 0.0019, 0.0030, 0.0029, 0.0043]])
+data: tensor([[[9.1553e+02, 4.6247e+02, 9.8768e-01],
+         [9.8537e+02, 3.8282e+02, 9.9265e-01],
+         [8.4128e+02, 3.9125e+02, 9.8168e-01],
+         [1.1055e+03, 4.5647e+02, 9.6355e-01],
+         [7.4762e+02, 4.7675e+02, 7.0244e-01],
+         [1.4126e+03, 9.5085e+02, 8.5262e-01],
+         [5.2766e+02, 9.3259e+02, 8.8745e-01],
+         [0.0000e+00, 0.0000e+00, 1.1164e-02],
+         [0.0000e+00, 0.0000e+00, 1.8144e-02],
+         [0.0000e+00, 0.0000e+00, 2.0537e-02],
+         [0.0000e+00, 0.0000e+00, 2.4466e-02],
+         [0.0000e+00, 0.0000e+00, 2.1101e-03],
+         [0.0000e+00, 0.0000e+00, 2.9054e-03],
+         [0.0000e+00, 0.0000e+00, 1.8849e-03],
+         [0.0000e+00, 0.0000e+00, 3.0045e-03],
+         [0.0000e+00, 0.0000e+00, 2.8613e-03],
+         [0.0000e+00, 0.0000e+00, 4.2775e-03]]])
+has_visible: True
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 17, 3])
+xy: tensor([[[ 915.5349,  462.4669],
+         [ 985.3685,  382.8219],
+         [ 841.2764,  391.2451],
+         [1105.5120,  456.4742],
+         [ 747.6245,  476.7514],
+         [1412.6334,  950.8482],
+         [ 527.6625,  932.5889],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000]]])
+xyn: tensor([[[0.4768, 0.4282],
+         [0.5132, 0.3545],
+         [0.4382, 0.3623],
+         [0.5758, 0.4227],
+         [0.3894, 0.4414],
+         [0.7357, 0.8804],
+         [0.2748, 0.8635],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000]]])ultralytics.engine.results.Keypoints object with attributes:
+
+conf: tensor([[0.9886, 0.9933, 0.9831, 0.9650, 0.6877, 0.8709, 0.8907, 0.0137, 0.0177, 0.0209, 0.0208, 0.0028, 0.0033, 0.0020, 0.0029, 0.0031, 0.0042]])
+data: tensor([[[9.1030e+02, 4.6449e+02, 9.8858e-01],
+         [9.8459e+02, 3.8226e+02, 9.9330e-01],
+         [8.3600e+02, 3.9208e+02, 9.8309e-01],
+         [1.1095e+03, 4.5305e+02, 9.6504e-01],
+         [7.4055e+02, 4.7521e+02, 6.8774e-01],
+         [1.4095e+03, 9.4021e+02, 8.7089e-01],
+         [5.1056e+02, 9.3783e+02, 8.9066e-01],
+         [0.0000e+00, 0.0000e+00, 1.3746e-02],
+         [0.0000e+00, 0.0000e+00, 1.7685e-02],
+         [0.0000e+00, 0.0000e+00, 2.0911e-02],
+         [0.0000e+00, 0.0000e+00, 2.0811e-02],
+         [0.0000e+00, 0.0000e+00, 2.8099e-03],
+         [0.0000e+00, 0.0000e+00, 3.3372e-03],
+         [0.0000e+00, 0.0000e+00, 2.0204e-03],
+         [0.0000e+00, 0.0000e+00, 2.8926e-03],
+         [0.0000e+00, 0.0000e+00, 3.0531e-03],
+         [0.0000e+00, 0.0000e+00, 4.2277e-03]]])
+has_visible: True
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 17, 3])
+xy: tensor([[[ 910.3018,  464.4883],
+         [ 984.5869,  382.2614],
+         [ 835.9990,  392.0779],
+         [1109.5392,  453.0505],
+         [ 740.5502,  475.2078],
+         [1409.4741,  940.2138],
+         [ 510.5569,  937.8314],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000]]])
+xyn: tensor([[[0.4741, 0.4301],
+         [0.5128, 0.3539],
+         [0.4354, 0.3630],
+         [0.5779, 0.4195],
+         [0.3857, 0.4400],
+         [0.7341, 0.8706],
+         [0.2659, 0.8684],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000]]])ultralytics.engine.results.Keypoints object with attributes:
+
+conf: tensor([[0.9907, 0.9948, 0.9874, 0.9629, 0.7421, 0.8225, 0.8970, 0.0116, 0.0179, 0.0204, 0.0234, 0.0017, 0.0023, 0.0013, 0.0018, 0.0026, 0.0036]])
+data: tensor([[[9.0699e+02, 4.7643e+02, 9.9071e-01],
+         [9.8184e+02, 3.8778e+02, 9.9477e-01],
+         [8.2922e+02, 3.9701e+02, 9.8738e-01],
+         [1.1054e+03, 4.5911e+02, 9.6292e-01],
+         [7.3158e+02, 4.7995e+02, 7.4214e-01],
+         [1.3734e+03, 9.5337e+02, 8.2253e-01],
+         [5.1959e+02, 9.5314e+02, 8.9704e-01],
+         [0.0000e+00, 0.0000e+00, 1.1637e-02],
+         [0.0000e+00, 0.0000e+00, 1.7947e-02],
+         [0.0000e+00, 0.0000e+00, 2.0397e-02],
+         [0.0000e+00, 0.0000e+00, 2.3382e-02],
+         [0.0000e+00, 0.0000e+00, 1.7349e-03],
+         [0.0000e+00, 0.0000e+00, 2.3328e-03],
+         [0.0000e+00, 0.0000e+00, 1.2804e-03],
+         [0.0000e+00, 0.0000e+00, 1.8244e-03],
+         [0.0000e+00, 0.0000e+00, 2.6143e-03],
+         [0.0000e+00, 0.0000e+00, 3.6046e-03]]])
+has_visible: True
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 17, 3])
+xy: tensor([[[ 906.9855,  476.4287],
+         [ 981.8438,  387.7781],
+         [ 829.2197,  397.0065],
+         [1105.4196,  459.1124],
+         [ 731.5762,  479.9525],
+         [1373.4258,  953.3676],
+         [ 519.5859,  953.1407],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000]]])
+xyn: tensor([[[0.4724, 0.4411],
+         [0.5114, 0.3591],
+         [0.4319, 0.3676],
+         [0.5757, 0.4251],
+         [0.3810, 0.4444],
+         [0.7153, 0.8827],
+         [0.2706, 0.8825],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000]]])ultralytics.engine.results.Keypoints object with attributes:
+
+conf: tensor([[0.9886, 0.9932, 0.9832, 0.9653, 0.7062, 0.8467, 0.9012, 0.0098, 0.0211, 0.0195, 0.0286, 0.0019, 0.0029, 0.0017, 0.0030, 0.0026, 0.0042]])
+data: tensor([[[9.0779e+02, 4.8121e+02, 9.8856e-01],
+         [9.8067e+02, 3.9349e+02, 9.9319e-01],
+         [8.3196e+02, 4.0368e+02, 9.8325e-01],
+         [1.1056e+03, 4.5475e+02, 9.6530e-01],
+         [7.3732e+02, 4.7651e+02, 7.0616e-01],
+         [1.4141e+03, 9.6156e+02, 8.4665e-01],
+         [5.1918e+02, 9.3263e+02, 9.0118e-01],
+         [0.0000e+00, 0.0000e+00, 9.8075e-03],
+         [0.0000e+00, 0.0000e+00, 2.1100e-02],
+         [0.0000e+00, 0.0000e+00, 1.9524e-02],
+         [0.0000e+00, 0.0000e+00, 2.8584e-02],
+         [0.0000e+00, 0.0000e+00, 1.8728e-03],
+         [0.0000e+00, 0.0000e+00, 2.8980e-03],
+         [0.0000e+00, 0.0000e+00, 1.6622e-03],
+         [0.0000e+00, 0.0000e+00, 2.9529e-03],
+         [0.0000e+00, 0.0000e+00, 2.5720e-03],
+         [0.0000e+00, 0.0000e+00, 4.1576e-03]]])
+has_visible: True
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 17, 3])
+xy: tensor([[[ 907.7891,  481.2148],
+         [ 980.6695,  393.4922],
+         [ 831.9635,  403.6799],
+         [1105.6454,  454.7475],
+         [ 737.3174,  476.5064],
+         [1414.1127,  961.5593],
+         [ 519.1831,  932.6274],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000]]])
+xyn: tensor([[[0.4728, 0.4456],
+         [0.5108, 0.3643],
+         [0.4333, 0.3738],
+         [0.5759, 0.4211],
+         [0.3840, 0.4412],
+         [0.7365, 0.8903],
+         [0.2704, 0.8635],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000]]])ultralytics.engine.results.Keypoints object with attributes:
+
+conf: tensor([[0.9893, 0.9934, 0.9853, 0.9610, 0.7367, 0.8288, 0.9007, 0.0093, 0.0229, 0.0194, 0.0315, 0.0017, 0.0028, 0.0016, 0.0030, 0.0026, 0.0043]])
+data: tensor([[[9.1047e+02, 4.8808e+02, 9.8932e-01],
+         [9.8381e+02, 3.9961e+02, 9.9337e-01],
+         [8.3202e+02, 4.0794e+02, 9.8533e-01],
+         [1.1056e+03, 4.6211e+02, 9.6099e-01],
+         [7.3366e+02, 4.8112e+02, 7.3674e-01],
+         [1.4076e+03, 9.6217e+02, 8.2878e-01],
+         [5.1810e+02, 9.3572e+02, 9.0071e-01],
+         [0.0000e+00, 0.0000e+00, 9.2630e-03],
+         [0.0000e+00, 0.0000e+00, 2.2875e-02],
+         [0.0000e+00, 0.0000e+00, 1.9412e-02],
+         [0.0000e+00, 0.0000e+00, 3.1464e-02],
+         [0.0000e+00, 0.0000e+00, 1.6923e-03],
+         [0.0000e+00, 0.0000e+00, 2.7520e-03],
+         [0.0000e+00, 0.0000e+00, 1.6064e-03],
+         [0.0000e+00, 0.0000e+00, 2.9675e-03],
+         [0.0000e+00, 0.0000e+00, 2.5819e-03],
+         [0.0000e+00, 0.0000e+00, 4.2778e-03]]])
+has_visible: True
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 17, 3])
+xy: tensor([[[ 910.4703,  488.0764],
+         [ 983.8071,  399.6138],
+         [ 832.0172,  407.9449],
+         [1105.5533,  462.1106],
+         [ 733.6575,  481.1181],
+         [1407.5548,  962.1671],
+         [ 518.1037,  935.7209],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000]]])
+xyn: tensor([[[0.4742, 0.4519],
+         [0.5124, 0.3700],
+         [0.4333, 0.3777],
+         [0.5758, 0.4279],
+         [0.3821, 0.4455],
+         [0.7331, 0.8909],
+         [0.2698, 0.8664],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000]]])ultralytics.engine.results.Keypoints object with attributes:
+
+conf: tensor([[0.9892, 0.9931, 0.9860, 0.9566, 0.7495, 0.8123, 0.8955, 0.0092, 0.0241, 0.0212, 0.0356, 0.0016, 0.0026, 0.0017, 0.0031, 0.0028, 0.0047]])
+data: tensor([[[9.1817e+02, 4.9305e+02, 9.8921e-01],
+         [9.9055e+02, 4.0575e+02, 9.9308e-01],
+         [8.3833e+02, 4.1352e+02, 9.8604e-01],
+         [1.1088e+03, 4.6930e+02, 9.5656e-01],
+         [7.3732e+02, 4.8853e+02, 7.4953e-01],
+         [1.4066e+03, 9.5646e+02, 8.1233e-01],
+         [5.2235e+02, 9.3498e+02, 8.9553e-01],
+         [0.0000e+00, 0.0000e+00, 9.2368e-03],
+         [0.0000e+00, 0.0000e+00, 2.4137e-02],
+         [0.0000e+00, 0.0000e+00, 2.1223e-02],
+         [0.0000e+00, 0.0000e+00, 3.5609e-02],
+         [0.0000e+00, 0.0000e+00, 1.5951e-03],
+         [0.0000e+00, 0.0000e+00, 2.6273e-03],
+         [0.0000e+00, 0.0000e+00, 1.6688e-03],
+         [0.0000e+00, 0.0000e+00, 3.1462e-03],
+         [0.0000e+00, 0.0000e+00, 2.7697e-03],
+         [0.0000e+00, 0.0000e+00, 4.6583e-03]]])
+has_visible: True
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 17, 3])
+xy: tensor([[[ 918.1702,  493.0480],
+         [ 990.5499,  405.7525],
+         [ 838.3251,  413.5200],
+         [1108.8075,  469.2961],
+         [ 737.3176,  488.5345],
+         [1406.5840,  956.4619],
+         [ 522.3466,  934.9830],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000]]])
+xyn: tensor([[[0.4782, 0.4565],
+         [0.5159, 0.3757],
+         [0.4366, 0.3829],
+         [0.5775, 0.4345],
+         [0.3840, 0.4523],
+         [0.7326, 0.8856],
+         [0.2721, 0.8657],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000]]])ultralytics.engine.results.Keypoints object with attributes:
+
+conf: tensor([[0.9898, 0.9934, 0.9868, 0.9586, 0.7507, 0.8125, 0.9008, 0.0088, 0.0253, 0.0208, 0.0363, 0.0015, 0.0026, 0.0016, 0.0030, 0.0026, 0.0045]])
+data: tensor([[[9.2391e+02, 4.9591e+02, 9.8976e-01],
+         [9.9502e+02, 4.0753e+02, 9.9340e-01],
+         [8.4339e+02, 4.1623e+02, 9.8683e-01],
+         [1.1123e+03, 4.6925e+02, 9.5855e-01],
+         [7.4256e+02, 4.9093e+02, 7.5074e-01],
+         [1.4149e+03, 9.6183e+02, 8.1253e-01],
+         [5.2739e+02, 9.3582e+02, 9.0083e-01],
+         [0.0000e+00, 0.0000e+00, 8.8336e-03],
+         [0.0000e+00, 0.0000e+00, 2.5250e-02],
+         [0.0000e+00, 0.0000e+00, 2.0758e-02],
+         [0.0000e+00, 0.0000e+00, 3.6252e-02],
+         [0.0000e+00, 0.0000e+00, 1.5153e-03],
+         [0.0000e+00, 0.0000e+00, 2.5779e-03],
+         [0.0000e+00, 0.0000e+00, 1.5534e-03],
+         [0.0000e+00, 0.0000e+00, 3.0214e-03],
+         [0.0000e+00, 0.0000e+00, 2.5831e-03],
+         [0.0000e+00, 0.0000e+00, 4.4573e-03]]])
+has_visible: True
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 17, 3])
+xy: tensor([[[ 923.9103,  495.9123],
+         [ 995.0206,  407.5321],
+         [ 843.3945,  416.2302],
+         [1112.3291,  469.2466],
+         [ 742.5605,  490.9304],
+         [1414.9153,  961.8346],
+         [ 527.3909,  935.8239],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000]]])
+xyn: tensor([[[0.4812, 0.4592],
+         [0.5182, 0.3773],
+         [0.4393, 0.3854],
+         [0.5793, 0.4345],
+         [0.3868, 0.4546],
+         [0.7369, 0.8906],
+         [0.2747, 0.8665],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000]]])ultralytics.engine.results.Keypoints object with attributes:
+
+conf: tensor([[0.9910, 0.9948, 0.9878, 0.9583, 0.7633, 0.8213, 0.8875, 0.0145, 0.0192, 0.0273, 0.0284, 0.0018, 0.0023, 0.0014, 0.0018, 0.0025, 0.0033]])
+data: tensor([[[9.2644e+02, 5.0552e+02, 9.9096e-01],
+         [1.0048e+03, 4.0734e+02, 9.9485e-01],
+         [8.4216e+02, 4.1543e+02, 9.8780e-01],
+         [1.1258e+03, 4.7110e+02, 9.5833e-01],
+         [7.3595e+02, 4.9089e+02, 7.6331e-01],
+         [1.3846e+03, 9.5872e+02, 8.2125e-01],
+         [5.2521e+02, 9.6677e+02, 8.8751e-01],
+         [0.0000e+00, 0.0000e+00, 1.4474e-02],
+         [0.0000e+00, 0.0000e+00, 1.9175e-02],
+         [0.0000e+00, 0.0000e+00, 2.7256e-02],
+         [0.0000e+00, 0.0000e+00, 2.8432e-02],
+         [0.0000e+00, 0.0000e+00, 1.8346e-03],
+         [0.0000e+00, 0.0000e+00, 2.3002e-03],
+         [0.0000e+00, 0.0000e+00, 1.3755e-03],
+         [0.0000e+00, 0.0000e+00, 1.8161e-03],
+         [0.0000e+00, 0.0000e+00, 2.5208e-03],
+         [0.0000e+00, 0.0000e+00, 3.2808e-03]]])
+has_visible: True
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 17, 3])
+xy: tensor([[[ 926.4355,  505.5209],
+         [1004.7523,  407.3432],
+         [ 842.1625,  415.4327],
+         [1125.8229,  471.1022],
+         [ 735.9531,  490.8898],
+         [1384.6364,  958.7238],
+         [ 525.2137,  966.7737],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000]]])
+xyn: tensor([[[0.4825, 0.4681],
+         [0.5233, 0.3772],
+         [0.4386, 0.3847],
+         [0.5864, 0.4362],
+         [0.3833, 0.4545],
+         [0.7212, 0.8877],
+         [0.2735, 0.8952],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000]]])ultralytics.engine.results.Keypoints object with attributes:
+
+conf: tensor([[0.9898, 0.9939, 0.9869, 0.9599, 0.7308, 0.8390, 0.8890, 0.0119, 0.0204, 0.0224, 0.0264, 0.0022, 0.0029, 0.0017, 0.0027, 0.0028, 0.0042]])
+data: tensor([[[9.2769e+02, 5.0624e+02, 9.8982e-01],
+         [1.0079e+03, 4.1185e+02, 9.9389e-01],
+         [8.4545e+02, 4.2157e+02, 9.8692e-01],
+         [1.1334e+03, 4.6809e+02, 9.5994e-01],
+         [7.3958e+02, 4.9018e+02, 7.3080e-01],
+         [1.4184e+03, 9.4843e+02, 8.3902e-01],
+         [5.1285e+02, 9.4957e+02, 8.8898e-01],
+         [0.0000e+00, 0.0000e+00, 1.1941e-02],
+         [0.0000e+00, 0.0000e+00, 2.0356e-02],
+         [0.0000e+00, 0.0000e+00, 2.2409e-02],
+         [0.0000e+00, 0.0000e+00, 2.6380e-02],
+         [0.0000e+00, 0.0000e+00, 2.2090e-03],
+         [0.0000e+00, 0.0000e+00, 2.8909e-03],
+         [0.0000e+00, 0.0000e+00, 1.7338e-03],
+         [0.0000e+00, 0.0000e+00, 2.7407e-03],
+         [0.0000e+00, 0.0000e+00, 2.8108e-03],
+         [0.0000e+00, 0.0000e+00, 4.1511e-03]]])
+has_visible: True
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 17, 3])
+xy: tensor([[[ 927.6889,  506.2360],
+         [1007.8923,  411.8452],
+         [ 845.4521,  421.5724],
+         [1133.4199,  468.0931],
+         [ 739.5808,  490.1778],
+         [1418.3573,  948.4289],
+         [ 512.8530,  949.5671],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000]]])
+xyn: tensor([[[0.4832, 0.4687],
+         [0.5249, 0.3813],
+         [0.4403, 0.3903],
+         [0.5903, 0.4334],
+         [0.3852, 0.4539],
+         [0.7387, 0.8782],
+         [0.2671, 0.8792],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000]]])ultralytics.engine.results.Keypoints object with attributes:
+
+conf: tensor([[0.9905, 0.9942, 0.9876, 0.9623, 0.7378, 0.8536, 0.9020, 0.0129, 0.0232, 0.0225, 0.0286, 0.0024, 0.0032, 0.0016, 0.0026, 0.0024, 0.0036]])
+data: tensor([[[9.2986e+02, 5.0862e+02, 9.9045e-01],
+         [1.0096e+03, 4.1480e+02, 9.9423e-01],
+         [8.4709e+02, 4.2620e+02, 9.8759e-01],
+         [1.1362e+03, 4.6899e+02, 9.6226e-01],
+         [7.4071e+02, 4.9456e+02, 7.3778e-01],
+         [1.4289e+03, 9.4684e+02, 8.5355e-01],
+         [5.1004e+02, 9.4645e+02, 9.0198e-01],
+         [0.0000e+00, 0.0000e+00, 1.2930e-02],
+         [0.0000e+00, 0.0000e+00, 2.3248e-02],
+         [0.0000e+00, 0.0000e+00, 2.2525e-02],
+         [0.0000e+00, 0.0000e+00, 2.8612e-02],
+         [0.0000e+00, 0.0000e+00, 2.4160e-03],
+         [0.0000e+00, 0.0000e+00, 3.2446e-03],
+         [0.0000e+00, 0.0000e+00, 1.5720e-03],
+         [0.0000e+00, 0.0000e+00, 2.5730e-03],
+         [0.0000e+00, 0.0000e+00, 2.4085e-03],
+         [0.0000e+00, 0.0000e+00, 3.6450e-03]]])
+has_visible: True
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 17, 3])
+xy: tensor([[[ 929.8614,  508.6242],
+         [1009.6416,  414.7954],
+         [ 847.0914,  426.2022],
+         [1136.1985,  468.9893],
+         [ 740.7123,  494.5617],
+         [1428.9000,  946.8446],
+         [ 510.0381,  946.4458],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000]]])
+xyn: tensor([[[0.4843, 0.4709],
+         [0.5259, 0.3841],
+         [0.4412, 0.3946],
+         [0.5918, 0.4342],
+         [0.3858, 0.4579],
+         [0.7442, 0.8767],
+         [0.2656, 0.8763],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000]]])ultralytics.engine.results.Keypoints object with attributes:
+
+conf: tensor([[0.9910, 0.9952, 0.9877, 0.9617, 0.7505, 0.8186, 0.8865, 0.0131, 0.0180, 0.0266, 0.0284, 0.0017, 0.0021, 0.0013, 0.0018, 0.0025, 0.0033]])
+data: tensor([[[9.2920e+02, 5.2328e+02, 9.9104e-01],
+         [1.0095e+03, 4.1607e+02, 9.9523e-01],
+         [8.4122e+02, 4.2715e+02, 9.8773e-01],
+         [1.1356e+03, 4.7297e+02, 9.6173e-01],
+         [7.3207e+02, 4.9891e+02, 7.5049e-01],
+         [1.4143e+03, 9.7187e+02, 8.1860e-01],
+         [5.1797e+02, 9.8423e+02, 8.8652e-01],
+         [0.0000e+00, 0.0000e+00, 1.3090e-02],
+         [0.0000e+00, 0.0000e+00, 1.8049e-02],
+         [0.0000e+00, 0.0000e+00, 2.6584e-02],
+         [0.0000e+00, 0.0000e+00, 2.8445e-02],
+         [0.0000e+00, 0.0000e+00, 1.6638e-03],
+         [0.0000e+00, 0.0000e+00, 2.1276e-03],
+         [0.0000e+00, 0.0000e+00, 1.3292e-03],
+         [0.0000e+00, 0.0000e+00, 1.7801e-03],
+         [0.0000e+00, 0.0000e+00, 2.4818e-03],
+         [0.0000e+00, 0.0000e+00, 3.2846e-03]]])
+has_visible: True
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 17, 3])
+xy: tensor([[[ 929.2046,  523.2795],
+         [1009.5051,  416.0688],
+         [ 841.2194,  427.1502],
+         [1135.6080,  472.9710],
+         [ 732.0739,  498.9088],
+         [1414.3096,  971.8669],
+         [ 517.9727,  984.2347],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000],
+         [   0.0000,    0.0000]]])
+xyn: tensor([[[0.4840, 0.4845],
+         [0.5258, 0.3852],
+         [0.4381, 0.3955],
+         [0.5915, 0.4379],
+         [0.3813, 0.4620],
+         [0.7366, 0.8999],
+         [0.2698, 0.9113],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000],
+         [0.0000, 0.0000]]])ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))ultralytics.engine.results.Keypoints object with attributes:
+
+conf: None
+data: tensor([], size=(1, 0, 51))
+has_visible: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 0, 51])
+xy: tensor([], size=(1, 0, 2))
+xyn: tensor([], size=(1, 0, 2))
