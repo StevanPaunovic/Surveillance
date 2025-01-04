@@ -4,7 +4,7 @@ from ultralytics import YOLO
 model = YOLO("yolo11n-pose.pt")  # load an official model
 
 # Predict with the model
-results = model.predict(0, show=True, stream=True, conf=0.8)
+results = model.predict(1, show=True, stream=True, conf=0.8)
 
 data = []
 for result in results:
